@@ -2,6 +2,6 @@
 BYE!
 ----
 
-This repository has moved to [gitlab.com/animaux/1926-StVA](https://gitlab.com/animaux/1926-StVA).
+This repository has moved to [gitlab.com/animaux/fontforge-scripts](https://gitlab.com/animaux/fontforge-scripts).
 
 Good day!
